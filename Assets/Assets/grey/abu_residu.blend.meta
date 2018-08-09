@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 46dccde7c24f2794a8e1f687a5b74319
+timeCreated: 1508313182
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bin
+    100004: bin_cover_tosca
+    100006: cigarrete
+    100008: cigarrete_001
+    100010: cigarrete_002
+    100012: cigarrete_003
+    100014: cigarrete_004
+    100016: Cube
+    100018: diaper
+    100020: gum
+    100022: m_pad
+    400000: //RootNode
+    400002: bin
+    400004: bin_cover_tosca
+    400006: cigarrete
+    400008: cigarrete_001
+    400010: cigarrete_002
+    400012: cigarrete_003
+    400014: cigarrete_004
+    400016: Cube
+    400018: diaper
+    400020: gum
+    400022: m_pad
+    2300000: bin
+    2300002: bin_cover_tosca
+    2300004: cigarrete
+    2300006: cigarrete_001
+    2300008: cigarrete_002
+    2300010: cigarrete_003
+    2300012: cigarrete_004
+    2300014: Cube
+    2300016: diaper
+    2300018: gum
+    2300020: m_pad
+    3300000: bin
+    3300002: bin_cover_tosca
+    3300004: cigarrete
+    3300006: cigarrete_001
+    3300008: cigarrete_002
+    3300010: cigarrete_003
+    3300012: cigarrete_004
+    3300014: Cube
+    3300016: diaper
+    3300018: gum
+    3300020: m_pad
+    4300000: cigarrete_004
+    4300002: cigarrete_003
+    4300004: cigarrete_002
+    4300006: cigarrete_001
+    4300008: cigarrete
+    4300010: diaper
+    4300012: m_pad
+    4300014: gum
+    4300016: Cube
+    4300018: bin
+    4300020: bin_cover_tosca
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 299
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bin
+        weight: 1
+      - path: bin/bin_cover_tosca
+        weight: 1
+      - path: cigarrete
+        weight: 1
+      - path: cigarrete_001
+        weight: 1
+      - path: cigarrete_002
+        weight: 1
+      - path: cigarrete_003
+        weight: 1
+      - path: cigarrete_004
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: diaper
+        weight: 1
+      - path: gum
+        weight: 1
+      - path: m_pad
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
